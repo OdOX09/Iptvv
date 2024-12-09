@@ -2,6 +2,40 @@
 
 
 
+#EXTINF:-1 group-title="#UJI COBA" tvg-id="RCTI.id" tvg-url="https://www.bevy.be/bevyfiles/indonesia.xml" tvg-logo="https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEjaLTBHD2Xlbza-_0ln2u3VZuZOshNISyxYn5-ofbW6ra5lSB5QaYaAOIVO67i2Yr_XdaCmgWA9JBUen-jDZF7pUQi_9PLql4rS9uBlu3Z6JfCnGsYvsAS6lizfKgFoK_pFzAh7xnfgSDY_/s1600/RCTI.png",RCTI+
+#EXTVLCOPT:http-user-agent=android-R+
+#EXTVLCOPT:http-referrer=https://www.rctiplus.com/
+https://r-plus.sedotcw3.workers.dev/index.m3u8?id=rcti  
+
+
+#EXTINF:-1 tvg-logo="https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEjaLTBHD2Xlbza-_0ln2u3VZuZOshNISyxYn5-ofbW6ra5lSB5QaYaAOIVO67i2Yr_XdaCmgWA9JBUen-jDZF7pUQi_9PLql4rS9uBlu3Z6JfCnGsYvsAS6lizfKgFoK_pFzAh7xnfgSDY_/s1600/RCTI.png" group-title="#UJI COBA", RCTI HD
+#EXTVLCOPT:http-referrer=https://www.visionplus.id/
+#KODIPROP:inputstream.adaptive.license_type=clearkey
+#KODIPROP:inputstream.adaptive.license_key=9ba3e153ef8956d6e2b0684fcf74f58f:dbc28cb5c6426080f984a5b6d436bb30
+https://cempedak-live-cdn.mncnow.id/live/eds/RCTI-DD/sa_dash_vmx/RCTI-DD.mpd
+
+#KODIPROP:inputstream.adaptive.license_type=com.widevine.alpha
+#KODIPROP:inputstream.adaptive.license_key=https://mrpw.ptmnc01.verspective.net/?deviceId=MDA5MmI1NjctOWMyMS0zNDYyLTk0NDAtODM5NGQ1ZjdlZWRi
+#EXTVLCOPT:http-referrer=https://visionplus.id
+#EXTINF:-1 group-title="#UJI COBA" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/3/39/GTV_logo_%282017%29.png/1200px-GTV_logo_%282017%29.png", GTV (V+)
+#EXTVLCOPT:http-referrer=https://www.visionplus.id
+https://cempedak-live-cdn.mncnow.id/live/eds/GTV-HD/sa_dash_vmx/GTV-HD.mpd
+
+
+#EXTVLCOPT:http-user-agent=android-R+
+#EXTVLCOPT:http-referrer=https://www.rctiplus.com/
+#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/3/39/GTV_logo_%282017%29.png/1200px-GTV_logo_%282017%29.png" group-title="#UJI COBA",GTV (R+)
+https://r-plus.sedotcw3.workers.dev/index.m3u8?id=gtv  
+
+#KODIPROP:inputstream.adaptive.license_type=com.widevine.alpha
+#KODIPROP:inputstream.adaptive.license_key=https://mrpw.ptmnc01.verspective.net/?deviceId=ZGZjMjFhNzUtMjY3ZC0zYWQ2LWI1N2ItMjdiNjRkOTBiMzFj
+#EXTINF:-1 tvg-id="TVRI SPORT HD.Id" tvg-logo="XXXXX" group-title="#UJI COBA",TVRI SPORT HD 
+https://ott-balancer.tvri.go.id/live/eds/SportHD/hls/SportHD-avc1_2500000=10004-mp4a_96000_eng=20003.m3u8
+
+#KODIPROP:inputstream.adaptive.license_type=com.widevine.alpha
+#KODIPROP:inputstream.adaptive.license_key=https://mrpw.ptmnc01.verspective.net/?deviceId=NDIzMDJhZmUtYWRjMi0zNGJkLTkyN2EtYmE1ZDFlZWIwODEz
+#EXTINF:-1 tvg-id="TVRI SPORT HD.Id" tvg-logo="" group-title="#UJI COBA",TVRI SPORT HD 
+https://ott-balancer.tvri.go.id/live/eds/SportHD/hls/SportHD-avc1_2500000=10004-mp4a_96000_eng=20003.m3u8
 
 
 ##http://sansat.cc:88/live/as5pBvP7yzMQV/NIsx3ELEMZNnPqA/95002.ts
